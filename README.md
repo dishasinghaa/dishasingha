@@ -3,18 +3,14 @@
 </div>
 
 # Run and deploy your AI Studio app
+Hi I'm Disha, 
+My background in AIML is complemented by an active pursuit of AI alignment and governance concepts. I'm particularly interested in how behavioral shifts in complex agents mirror human socio-technical rebellion when optimized for specific validation metrics. 
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/dfc9279a-8d8e-4667-b0ea-1a76fdef66d3
+Thanks for visiting my profile
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
