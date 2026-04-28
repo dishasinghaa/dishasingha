@@ -47,7 +47,7 @@ export default function App() {
             >
               <div className="flex items-center gap-2 mb-4">
                 <span className="w-8 h-px bg-warm-accent" />
-                <p className="text-[10px] uppercase tracking-[0.2em] font-bold text-warm-accent">Portfolio 2024</p>
+                
               </div>
               <h1 className="serif text-7xl md:text-8xl leading-none mb-6">
                 Disha <br /> Singha
